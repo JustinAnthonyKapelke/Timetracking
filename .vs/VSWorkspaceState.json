@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Timetracking"
+    "\\Timetracking",
+    "\\Timetracking\\TimeTracking.WebAPI"
   ],
-  "SelectedNode": "\\Timetracking\\README.md",
+  "SelectedNode": "\\Timetracking\\TimeTracking.WebAPI\\TimeTracking.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\TimeTracking.WebAPI.props" />
-</Project>
